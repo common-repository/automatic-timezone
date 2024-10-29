@@ -1,0 +1,120 @@
+# Automatic Timezone POT file
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/automatic-timezone\n"
+"POT-Creation-Date: 2008-08-19 16:18+0000\n"
+"PO-Revision-Date: 2008-10-28 18:20+0100\n"
+"Last-Translator: Gianni Diurno (aka gidibao) <gidibao@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: timezone.php:78
+#: timezone.php:153
+msgid "Timezone Configuration"
+msgstr "Configurazione del Fuso Orario"
+
+#: timezone.php:78
+msgid "Timezone"
+msgstr "Fuso Orario"
+
+#: timezone.php:131
+msgid "Cheatin&#8217; uh?"
+msgstr "Problemi&#8217; uh?"
+
+#: timezone.php:150
+msgid "Timezone setting saved."
+msgstr "Le impostazioni del fuso orario sono state salvate."
+
+#: timezone.php:165
+msgid "Timezone Selection"
+msgstr "Seleziona il fuso orario"
+
+#: timezone.php:169
+msgid "Current Timezone Selection is: "
+msgstr "Il fuso orario in corso é: "
+
+#: timezone.php:174
+msgid "This timezone is currently in "
+msgstr "ed ha in uso l' "
+
+#: timezone.php:176
+msgid "daylight savings"
+msgstr "ora legale"
+
+#: timezone.php:177
+msgid "standard"
+msgstr "ora solare"
+
+#: timezone.php:178
+msgid " time."
+msgstr " in questo momento."
+
+#: timezone.php:182
+msgid "Not Selected"
+msgstr "Non selezionato"
+
+#: timezone.php:188
+msgid "Current Server Time (<abbr title=\"Coordinated Universal Time\">UTC</abbr>) is: "
+msgstr "Ora corrente del server (<abbr title=\"Tempo coordinato universale\">UTC</abbr>): "
+
+#: timezone.php:189
+#: timezone.php:196
+msgid "Y-m-d G:i:s"
+msgstr "d-m-Y G:i:s"
+
+#: timezone.php:193
+msgid "Time in "
+msgstr "Ora locale-"
+
+#: timezone.php:195
+msgid " is: "
+msgstr ":"
+
+#: timezone.php:214
+msgid "This timezone switches to "
+msgstr "Questo Fuso Orario adotterà l' "
+
+#: timezone.php:215
+msgid "daylight savings time"
+msgstr "ora legale"
+
+#: timezone.php:215
+msgid "standard time"
+msgstr "ora solare"
+
+#: timezone.php:216
+msgid " on: "
+msgstr " il:"
+
+#: timezone.php:221
+msgid "F j, Y @ g:i a T"
+msgstr "Y j F @ G:i T"
+
+#: timezone.php:223
+msgid " The new offset at that time will be: UTC"
+msgstr " Il nuovo aggiornamento dell'ora locale sarà: UTC"
+
+#: timezone.php:227
+msgid "This timezone does not observe daylight savings time."
+msgstr "Questo fuso orario non osserva l'ora legale."
+
+#: timezone.php:232
+msgid "Select the Timezone you want to use. This should be the name of the nearest major city to you that shares your timezone."
+msgstr "Seleziona il Fuso Orario che desideri utilizzare. Dovrà corrispondere al nome della città a te più vicina che condivide il tuo stesso fuso orario."
+
+#: timezone.php:248
+msgid "Update Timezone &raquo;"
+msgstr "Aggiorna il Fuso Orario &raquo;"
+
+#: timezone.php:394
+msgid "Unfortunately, you have to manually update this for Daylight Savings Time. Lame, we know, but will be fixed in the future."
+msgstr "Sfortunatamente, occorre aggiornare manualmente questa voce per l’ora legale. È brutto lo sappiamo, ma verrà corretto in futuro."
+
+#: timezone.php:395
+msgid "Fortunately for you, you're using the Automatic Timezone plugin, and it has automatically set this value for you.<br />This setting will change automatically if Daylight Savings Time rolls around."
+msgstr "Fortunatamente per te, stai utilizzando il plugin Automatic Timezone!!! L'orario é stato aggiornato.<br />Questa impostazione modificherà automaticamente l'ora legale."
+

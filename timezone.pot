@@ -1,0 +1,127 @@
+# Automatic Timezone POT file
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/automatic-timezone\n"
+"POT-Creation-Date: 2008-08-19 16:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: timezone.php:78 timezone.php:153
+msgid "Timezone Configuration"
+msgstr ""
+
+#: timezone.php:78
+msgid "Timezone"
+msgstr ""
+
+#: timezone.php:131
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#: timezone.php:150
+msgid "Timezone setting saved."
+msgstr ""
+
+#: timezone.php:165
+msgid "Timezone Selection"
+msgstr ""
+
+#: timezone.php:169
+msgid "Current Timezone Selection is: "
+msgstr ""
+
+#: timezone.php:174
+msgid "This timezone is currently in "
+msgstr ""
+
+#: timezone.php:176
+msgid "daylight savings"
+msgstr ""
+
+#: timezone.php:177
+msgid "standard"
+msgstr ""
+
+#: timezone.php:178
+msgid " time."
+msgstr ""
+
+#: timezone.php:182
+msgid "Not Selected"
+msgstr ""
+
+#: timezone.php:188
+msgid ""
+"Current Server Time (<abbr title=\"Coordinated Universal Time\">UTC</abbr>) "
+"is: "
+msgstr ""
+
+#: timezone.php:189 timezone.php:196
+msgid "Y-m-d G:i:s"
+msgstr ""
+
+#: timezone.php:193
+msgid "Time in "
+msgstr ""
+
+#: timezone.php:195
+msgid " is: "
+msgstr ""
+
+#: timezone.php:214
+msgid "This timezone switches to "
+msgstr ""
+
+#: timezone.php:215
+msgid "daylight savings time"
+msgstr ""
+
+#: timezone.php:215
+msgid "standard time"
+msgstr ""
+
+#: timezone.php:216
+msgid " on: "
+msgstr ""
+
+#: timezone.php:221
+msgid "F j, Y @ g:i a T"
+msgstr ""
+
+#: timezone.php:223
+msgid " The new offset at that time will be: UTC"
+msgstr ""
+
+#: timezone.php:227
+msgid "This timezone does not observe daylight savings time."
+msgstr ""
+
+#: timezone.php:232
+msgid ""
+"Select the Timezone you want to use. This should be the name of the nearest "
+"major city to you that shares your timezone."
+msgstr ""
+
+#: timezone.php:248
+msgid "Update Timezone &raquo;"
+msgstr ""
+
+#: timezone.php:394
+msgid ""
+"Unfortunately, you have to manually update this for Daylight Savings Time. "
+"Lame, we know, but will be fixed in the future."
+msgstr ""
+
+#: timezone.php:395
+msgid ""
+"Fortunately for you, you're using the Automatic Timezone plugin, and it has "
+"automatically set this value for you.<br />This setting will change "
+"automatically if Daylight Savings Time rolls around."
+msgstr ""

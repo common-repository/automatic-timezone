@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: automatic-timezone\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-20 12:16+0100\n"
+"PO-Revision-Date: 2008-12-20 12:21+0100\n"
+"Last-Translator: serge <serge@kalyx.fr>\n"
+"Language-Team: Serge Rauber <http://wp.kalyxstudio.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: timezone.php:85
+msgid "Timezone"
+msgstr "Fuseau horaire"
+
+#: timezone.php:86
+#: timezone.php:180
+msgid "Timezone Configuration"
+msgstr "Configuration du fuseau horaire"
+
+#: timezone.php:104
+msgid "Settings"
+msgstr "Réglages"
+
+#: timezone.php:158
+msgid "Cheatin&#8217; uh?"
+msgstr "Faut pas tricher!"
+
+#: timezone.php:177
+msgid "Timezone setting saved."
+msgstr "Réglages du fuseau horaire sauvegardés."
+
+#: timezone.php:192
+msgid "Timezone Selection"
+msgstr "Sélection du fuseau horaire"
+
+#: timezone.php:196
+msgid "Current Timezone Selection is: "
+msgstr "Fuseau horaire actuel:"
+
+#: timezone.php:201
+msgid "This timezone is currently in "
+msgstr "Ce fuseau horaire est actuellement "
+
+#: timezone.php:203
+msgid "daylight savings"
+msgstr "en heure d'été"
+
+#: timezone.php:204
+msgid "standard"
+msgstr "en heure d'hiver"
+
+#: timezone.php:205
+msgid " time."
+msgstr "."
+
+#: timezone.php:209
+msgid "Not Selected"
+msgstr "Non sélctionné"
+
+#: timezone.php:215
+msgid "Current Server Time (<abbr title=\"Coordinated Universal Time\">UTC</abbr>) is: "
+msgstr "L'heure UTC actuelle du serveur est: "
+
+#: timezone.php:216
+#: timezone.php:223
+msgid "Y-m-d G:i:s"
+msgstr "d/m/Y G:i:s"
+
+#: timezone.php:220
+msgid "Time in "
+msgstr "L'heure à "
+
+#: timezone.php:222
+msgid " is: "
+msgstr "est:"
+
+#: timezone.php:241
+msgid "This timezone switches to "
+msgstr "Ce fuseau horaire passe à "
+
+#: timezone.php:242
+msgid "daylight savings time"
+msgstr "l'heure d'été"
+
+#: timezone.php:242
+msgid "standard time"
+msgstr "l'heure d'hiver"
+
+#: timezone.php:243
+msgid " on: "
+msgstr " le:"
+
+#: timezone.php:247
+msgid "F j, Y @ g:i a T"
+msgstr "j F Y à G:i T"
+
+#: timezone.php:249
+msgid " The new offset at that time will be: UTC"
+msgstr "Le nouveau réglage de fuseau sera alors: UTC"
+
+#: timezone.php:253
+msgid "This timezone does not observe daylight savings time."
+msgstr "Ce fuseau horaire ne change pas."
+
+#: timezone.php:258
+msgid "Select the Timezone you want to use. This should be the name of the nearest major city to you that shares your timezone."
+msgstr "Choisissez le fuseau horaire que vous voulez utiliser, soit le nom de la ville la plus proche ayant le même fuseau horaire que vous."
+
+#: timezone.php:275
+msgid "Update Timezone &raquo;"
+msgstr "Mettre à jour le fuseau &raquo;"
+
+#: timezone.php:421
+msgid "Unfortunately, you have to manually update this for Daylight Savings Time. Lame, we know, but will be fixed in the future."
+msgstr "Malheureusement, vous devez faire ce réglage à la main pour le passage à l’heure d’été/d’hiver. Oui, c’est bancal, nous comptons améliorer cela pour une prochaine version."
+
+#: timezone.php:422
+msgid "Fortunately for you, you're using the Automatic Timezone plugin, and it has automatically set this value for you.<br />This setting will change automatically if Daylight Savings Time rolls around."
+msgstr "Heuresement, vous utilisez le plugin Automatic Timezone, et il règle automatiquement cette valeur pour vous.<br />Le passage à l'heure d'été/d'hiver se fera tout seul!"
+
